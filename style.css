@@ -49,3 +49,22 @@ li a:hover {
 html{
     scroll-behavior: smooth;
 }
+
+.hero-container{
+    background-color: #081b1a;
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+    max-width: 400px;
+    margin: 30px auto;
+    color: #D3AF37;
+}
+
+.profile-pic{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
