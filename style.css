@@ -7,7 +7,7 @@ body {
     margin: 0;
     font-family: cursive;
 }
-
+/* navbar section*/
 #navbar1 {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
     position: sticky;
@@ -49,13 +49,13 @@ li a:hover {
 html{
     scroll-behavior: smooth;
 }
-
+/*profile section*/
 .hero-container{
     background-color: #081b1a;
     padding: 30px;
     text-align: center;
     border-radius: 20px;
-    max-width: 400px;
+    max-width: 60%;
     margin: 30px auto;
     color: #D3AF37;
 }
